@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Red Sun in the Sky",
+  "base_artist": "Mao Ze Dong",
+  "createdAt": "2025-12-01T16:16:09.248129Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Red Sun In The Sky",
+      "artist": "Gippeul",
+      "has_synced": true,
+      "path": "select/01_Red_Sun_In_The_Sky_Gippeul.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Red Sun in the Sky",
+      "artist": "3000AD",
+      "has_synced": true,
+      "path": "select/02_Red_Sun_in_the_Sky_3000AD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Red Sun in the Sky",
+      "artist": "Mao Ze Dong",
+      "has_synced": false,
+      "path": "select/03_Red_Sun_in_the_Sky_Mao_Ze_Dong.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Red Sun In The Sky",
+      "artist": "Fortuna",
+      "has_synced": true,
+      "path": "select/04_Red_Sun_In_The_Sky_Fortuna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Red Sun in the Sky",
+      "artist": "Mao Ze",
+      "has_synced": true,
+      "path": "select/05_Red_Sun_in_the_Sky_Mao_Ze.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Red Sun in the Sky (Paused)",
+      "artist": "Mao Ze Dong",
+      "has_synced": false,
+      "path": "select/06_Red_Sun_in_the_Sky_(Paused)_Mao_Ze_Dong.txt"
+    }
+  ]
+}
